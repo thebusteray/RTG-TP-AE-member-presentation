@@ -31,7 +31,8 @@ Content
     git branch **branch name**\
     git checkout **branch name**\
     git checkout -b **branch name**\
-    git branch -d **branch name**
+    git branch -d **branch name**\
+    git merge **branch name**
 
 ---
 AMD Code Intelligence linking-up
