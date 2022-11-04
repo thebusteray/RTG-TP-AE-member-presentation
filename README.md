@@ -32,3 +32,12 @@ Content
     git checkout **branch name**\
     git checkout -b **branch name**\
     git branch -d **branch name**
+
+---
+AMD Code Intelligence linking-up
+---
+
+
+- [AMD Radeon Driver-Enterprise](https://github.amd.com/orgs/AMD-Radeon-Driver/repositories?type=all)
+- [Issue Sample](https://ontrack-internal.amd.com/browse/SWDEV-343148)
+- [AMD Code Intelligence](http://code.amd.com/home) - [User manual](https://confluence.amd.com/pages/viewpage.action?pageId=94217319)
